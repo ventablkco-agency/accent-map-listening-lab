@@ -126,4 +126,4 @@ Voice Design prompt: Indian English female speaker with a clearly specified broa
 
 ## File naming
 
-british-01.mp3, british-02.mp3; cockney-01.mp3, cockney-02.mp3; scottish-01.mp3, scottish-02.mp3; irish-01.mp3, irish-02.mp3; yorkshire-01.mp3, yorkshire-02.mp3; american-01.mp3, american-02.mp3; southern-american-01.mp3, southern-american-02.mp3; australian-01.mp3, australian-02.mp3; south-african-01.mp3, south-african-02.mp3; indian-01.mp3, indian-02.mp3.
+british-01.mp3, british-02.mp3; cockney-01.mp3, cockney-02.mp3; scottish-01.mp3, scottish-02.mp3; irish-01.mp3, irish-02.mp3; yorkshire-01.mp3, yorkshire-02.mp3; american-01.mp3, american-02.mp3; southern-american-01.mp3, southern-american-02.mp3; australian-01.mp3, australian-02.mp3; south-african-01.mp3, south-african-02.mp3; indian-english-01.mp3, indian-english-02.mp3.
